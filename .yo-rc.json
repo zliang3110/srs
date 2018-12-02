@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.zll.srs"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "microservice",
+    "baseName": "srs",
+    "packageName": "com.zll.srs",
+    "packageFolder": "com/zll/srs",
+    "serverPort": "9632",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mariadb",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MTkyMmZjYWMzMWI1MmNkM2U5NzEwNDMzMTg4ZDVkODk2ZWQxMjhlNWViZDhkYWRiZDJmNzc0OTY3MjIwYmVkNTdiZGZlMzk1ZDdlMDYzYmE0YzRmMjIzODkyYzQzYjgzZTUyNjY3OGE0Nzk4NzZhMmZmNTM5YTQ1NDU3OGNiYTY=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
